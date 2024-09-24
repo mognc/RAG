@@ -14,7 +14,7 @@ def generate_answer(query, top_passages):
         return_tensors='pt',
         padding=True,
         truncation=True,
-        max_length=2600,
+        max_length=1600,
         add_special_tokens=True
     ).to(device)
 
