@@ -18,8 +18,8 @@ def generate_answer(query, top_passages):
         add_special_tokens=True
     ).to(device)
 
-    input_ids = input['input_ids']
-    attention_mask = input['attention_mask']
+    input_ids = inputs['input_ids']
+    attention_mask = inputs['attention_mask']
 
     with torch.no_grad():
         outputs = model.generate(
