@@ -7,7 +7,7 @@ import json
 import numpy
 import faiss
 
-passages = load_passages_from_file('data\processed_passages_new.txt')
+passages = load_passages_from_file('data/processed_passages_new.txt')
 print(f"Total number of loaded passages: {len(passages)}")
 
 embeddings = load_embeddings('data/embeddings.pt')
