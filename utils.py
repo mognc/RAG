@@ -9,5 +9,5 @@ def load_passages_from_file(input_file_path):
     return [passage.strip() for passage in passages if passage.strip()]
 
 def load_embeddings(file_path):
-    embeddings = torch.load(file_path)
+    embeddings = torch.load(file_path, weights_only=True)
     return embeddings

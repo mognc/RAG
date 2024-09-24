@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-tokenizer = AutoTokenizer.from_pretrained("mognc/t5_7_epoch")
+tokenizer = AutoTokenizer.from_pretrained("mognc/t5_7_epoch", use_fast=True)
 model = AutoModelForSeq2SeqLM.from_pretrained("mognc/t5_7_epoch").to(device)
 
 def generate_answer(query, top_passages):
