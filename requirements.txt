@@ -1,4 +1,5 @@
 streamlit
 torch
 transformers
+sentencepiece
 faiss-cpu
