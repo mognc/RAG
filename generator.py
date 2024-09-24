@@ -26,7 +26,7 @@ def generate_answer(query, top_passages):
             input_ids,
             attention_mask=attention_mask,
             max_length=250,
-            num_beams=9,
+            num_beams=5,
             length_penalty=2,
             temperature=0.7,
             top_k=50,
