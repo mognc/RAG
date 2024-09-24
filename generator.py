@@ -14,10 +14,23 @@ def generate_answer(query, top_passages):
         return_tensors='pt',
         padding=True,
         truncation=True,
-        max_length=512
+        max_length=2600,
+        add_special_tokens=True
     ).to(device)
 
+    input_ids = input['input_ids']
+    attention_mask = input['attention_mask']
+
     with torch.no_grad():
-        outputs = model.generate(inputs['input_ids'], attention_mask=inputs['attention_mask'], max_length=100)
+        outputs = model.generate(
+            input_ids,
+            attention_mask=attention_mask,
+            max_length=250,
+            num_beams=3,
+            length_penalty=2,
+            temperature=0.7,
+            top_k=50,
+            do_sample=True
+            )
     answer = tokenizer.decode(outputs[0], skip_special_tokens=True)
     return answer
