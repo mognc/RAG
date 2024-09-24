@@ -13,7 +13,7 @@ print(f"Total number of loaded passages: {len(passages)}")
 embeddings = load_embeddings('data/embeddings.pt')
 index = faiss.read_index('data/faiss_index_HNSWFLAT.index')
 
-st.title("Question Answering System")
+st.title("Game of Thrones Chatbot")
 
 query = st.text_input("Enter your question:")
 if st.button("Submit"):
