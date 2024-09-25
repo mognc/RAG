@@ -1,0 +1,357 @@
+[
+    {
+        "query": "What is Jon Snow's relationship with his direwolf?",
+        "positive_passage": "One of the most notable aspects of Jon Snow’s character is his relationship with his direwolf, Ghost. Ghost is not only Jon’s loyal companion but also a symbol of Jon’s connection to his Stark heritage.",
+        "negative_passages": [
+            "Jon Snow often trains dragons to fly.",
+            "He has a pet raven named Shadow."
+        ]
+    },
+    {
+        "query": "What motivates Jon Snow as a leader?",
+        "positive_passage": "His leadership is characterized by a focus on unity and cooperation, especially in the face of the imminent threat posed by the White Walkers.",
+        "negative_passages": [
+            "Jon aims to conquer the Iron Throne for himself.",
+            "He seeks revenge against the Boltons."
+        ]
+    },
+    {
+        "query": "How does Jon Snow's character evolve?",
+        "positive_passage": "Jon faces increasingly difficult moral dilemmas. His decisions often weigh heavily on him, especially when he must choose between personal loyalty and the greater good.",
+        "negative_passages": [
+            "Jon becomes a carefree adventurer.",
+            "He abandons his duties to pursue romance."
+        ]
+    },
+    {
+        "query": "What discovery impacts Jon Snow's identity?",
+        "positive_passage": "The revelation of Jon Snow's true parentage as Aegon Targaryen is a pivotal moment in the series, impacting his identity and the political landscape of Westeros.",
+        "negative_passages": [
+            "Jon discovers he can control dragons.",
+            "He finds out he is a secret Targaryen prince unrelated to his family."
+        ]
+    },
+    {
+        "query": "Who raised Jon Snow?",
+        "positive_passage": "Jon Snow is introduced as the illegitimate son of Eddard Stark, raised at Winterfell alongside his half-siblings.",
+        "negative_passages": [
+            "He was raised by the Lannisters in King's Landing.",
+            "Jon grew up in the Free Folk community."
+        ]
+    },{
+        "query": "Who is Jon Snow's father?",
+        "positive_passage": "Jon Snow, a central character in the *A Song of Ice and Fire* series by George R.R. Martin and portrayed by Kit Harington in HBO's *Game of Thrones*, is introduced as the illegitimate son of Eddard Stark.",
+        "negative_passages": [
+            "Jon Snow was raised by the Lannisters in King's Landing.",
+            "He is the son of Robert Baratheon and Cersei Lannister."
+        ]
+    },
+    {
+        "query": "What motivates Jon Snow to join the Night's Watch?",
+        "positive_passage": "Motivated by a desire to prove himself, Jon decides to join the Night's Watch, a sworn brotherhood tasked with guarding the Wall.",
+        "negative_passages": [
+            "Jon seeks revenge against the Lannisters for his family's downfall.",
+            "He aspires to become the King of the Seven Kingdoms."
+        ]
+    },
+    {
+        "query": "What is Jon Snow's leadership style?",
+        "positive_passage": "Jon’s leadership style is characterized by his belief in unity and cooperation, particularly in the face of existential threats.",
+        "negative_passages": [
+            "Jon rules with an iron fist and seeks personal power.",
+            "He often makes decisions without consulting his allies."
+        ]
+    },
+    {
+        "query": "What role does Ghost play in Jon Snow's life?",
+        "positive_passage": "A pivotal aspect of Jon's character is his bond with his direwolf, Ghost, symbolizing his connection to his Stark heritage.",
+        "negative_passages": [
+            "Ghost serves as Jon's pet bird and companion.",
+            "Jon uses Ghost for combat training."
+        ]
+    },
+    {
+        "query": "How does Jon Snow evolve as a character?",
+        "positive_passage": "Over the course of the series, Jon grapples with complex moral dilemmas that test his principles, making difficult choices to protect his people.",
+        "negative_passages": [
+            "Jon becomes selfish and abandons his responsibilities.",
+            "He pursues a life of luxury away from the Night's Watch."
+        ]
+    },
+    {
+        "query": "What is the significance of Jon Snow's true parentage?",
+        "positive_passage": "The revelation of Jon's true parentage as Aegon Targaryen profoundly impacts his identity and the political landscape of Westeros.",
+        "negative_passages": [
+            "Jon is revealed to be a simple peasant with no noble lineage.",
+            "He discovers he is a Targaryen dragon rider."
+        ]
+    },
+    {
+        "query": "What themes are central to Jon Snow's character?",
+        "positive_passage": "Jon Snow's enduring popularity stems from his relatable struggles and embodiment of values like honor, bravery, and resilience.",
+        "negative_passages": [
+            "His character primarily revolves around humor and light-heartedness.",
+            "Jon is depicted as a villain throughout the series."
+        ]
+    },
+    {
+        "query": "How does Jon Snow handle leadership challenges?",
+        "positive_passage": "Jon makes difficult choices, such as executing traitors, to protect his people, emphasizing the theme of sacrifice and the burdens of leadership.",
+        "negative_passages": [
+            "He avoids making any decisions to keep peace.",
+            "Jon often delegates all leadership tasks to others."
+        ]
+    },
+    {
+        "query": "What is Jon Snow's background?",
+        "positive_passage": "Raised at Winterfell alongside Eddard's legitimate children, Jon's status as a 'bastard' leads to a complicated relationship with his family.",
+        "negative_passages": [
+            "Jon was born and raised in King's Landing.",
+            "He grew up in the Free Folk community."
+        ]
+    },
+    {
+        "query": "What symbolizes Jon Snow's connection to House Stark?",
+        "positive_passage": "Ghost, Jon's direwolf, symbolizes his connection to his Stark heritage and loyalty.",
+        "negative_passages": [
+            "Jon's sword symbolizes his connection to House Lannister.",
+            "His crown represents his claim to the throne."
+        ]
+    },{
+        "query": "What is the main setting of *Game of Thrones*?",
+        "positive_passage": "*Game of Thrones* is set in the fictional continents of Westeros and Essos, where noble families vie for the Iron Throne.",
+        "negative_passages": [
+            "The series takes place in a futuristic city.",
+            "The story is set in a single kingdom with no political intrigue."
+        ]
+    },
+    {
+        "query": "Who is the head of House Stark?",
+        "positive_passage": "The Stark family is led by Eddard Stark, the honorable Warden of the North.",
+        "negative_passages": [
+            "Cersei Lannister is the head of House Stark.",
+            "Jaime Lannister leads the Stark family."
+        ]
+    },
+    {
+        "query": "What themes are explored in *Game of Thrones*?",
+        "positive_passage": "The series explores themes of power, loyalty, betrayal, and the complexities of human nature.",
+        "negative_passages": [
+            "The series focuses solely on romantic relationships.",
+            "It emphasizes humor and lightheartedness."
+        ]
+    },
+    {
+        "query": "What character undergoes significant transformation throughout the series?",
+        "positive_passage": "Daenerys Targaryen transforms from a frightened girl to a powerful leader who commands dragons.",
+        "negative_passages": [
+            "Arya Stark remains a minor character with little development.",
+            "Sansa Stark does not change throughout the series."
+        ]
+    },
+    {
+        "query": "What major event is referred to as the Red Wedding?",
+        "positive_passage": "The Red Wedding is an infamous event in the series known for its shocking and brutal character deaths.",
+        "negative_passages": [
+            "The Red Wedding is a peaceful gathering celebrating unity.",
+            "It is a festival that takes place every summer."
+        ]
+    },
+    {
+        "query": "What is the Night's Watch?",
+        "positive_passage": "The Night's Watch is a sworn brotherhood tasked with defending the Wall against supernatural threats.",
+        "negative_passages": [
+            "The Night's Watch is a group of merchants.",
+            "They are a family of nobles who rule the North."
+        ]
+    },
+    {
+        "query": "How was the final season of *Game of Thrones* received?",
+        "positive_passage": "The final season was met with mixed reviews, with fans divided over character arcs and plot resolutions.",
+        "negative_passages": [
+            "The final season was universally praised by all fans.",
+            "It had no significant impact on the series' legacy."
+        ]
+    },
+    {
+        "query": "What is a significant aspect of the show's storytelling?",
+        "positive_passage": "The series is known for its unpredictable plot twists and the brutal deaths of major characters.",
+        "negative_passages": [
+            "The story follows a linear and predictable path.",
+            "Characters rarely face any real danger."
+        ]
+    },
+    {
+        "query": "What influence has *Game of Thrones* had on popular culture?",
+        "positive_passage": "The cultural impact of *Game of Thrones* is undeniable, influencing adaptations, merchandise, and a dedicated fan community.",
+        "negative_passages": [
+            "It had little effect on the entertainment industry.",
+            "The series is not widely known."
+        ]
+    },
+    {
+        "query": "What is the ultimate goal of the noble families in *Game of Thrones*?",
+        "positive_passage": "Noble families vie for control of the Iron Throne to secure power and influence over Westeros.",
+        "negative_passages": [
+            "They aim to create peace and unity among all kingdoms.",
+            "Their goal is to eliminate all political rivals through friendship."
+        ]
+    },{
+        "query": "What is *Game of Thrones*?",
+        "positive_passage": "*Game of Thrones* is a critically acclaimed television series based on the *A Song of Ice and Fire* novels by George R.R. Martin.",
+        "negative_passages": [
+            "It is a romantic comedy set in modern-day America.",
+            "The series is a documentary about medieval history."
+        ]
+    },
+    {
+        "query": "What are the themes of *Game of Thrones*?",
+        "positive_passage": "Key themes include the nature of power, loyalty, betrayal, and the impact of war on society.",
+        "negative_passages": [
+            "The show focuses solely on comedic elements.",
+            "It emphasizes a utopian view of society."
+        ]
+    },
+    {
+        "query": "Give a summary of Season 1 of *Game of Thrones*.",
+        "positive_passage": "Season 1 introduces the Stark family and their ties to the Iron Throne, with Eddard Stark appointed as the Hand of the King.",
+        "negative_passages": [
+            "Season 1 is a lighthearted tale about summer festivals.",
+            "It only features one character throughout the entire season."
+        ]
+    },
+    {
+        "query": "What happens in Season 3?",
+        "positive_passage": "Season 3 highlights the brutal nature of the conflict, culminating in the infamous Red Wedding.",
+        "negative_passages": [
+            "The season revolves around a peaceful resolution between families.",
+            "It features a cooking competition among the characters."
+        ]
+    },
+    {
+        "query": "Who are some main characters in *Game of Thrones*?",
+        "positive_passage": "Main characters include Eddard Stark, Cersei Lannister, Daenerys Targaryen, Jon Snow, and Tyrion Lannister.",
+        "negative_passages": [
+            "The main characters are all animals living in a forest.",
+            "Only a single character exists in the series."
+        ]
+    },
+    {
+        "query": "What is the focus of Season 7?",
+        "positive_passage": "Season 7 brings the focus to the looming threat of the White Walkers and alliances forming for the final battle.",
+        "negative_passages": [
+            "The season is about the characters enjoying a peaceful retreat.",
+            "It emphasizes the lives of the common people without noble families."
+        ]
+    },
+    {
+        "query": "What are the consequences of the Red Wedding?",
+        "positive_passage": "The Red Wedding has devastating effects on the Stark family and shifts power dynamics significantly.",
+        "negative_passages": [
+            "The Red Wedding brings families together in celebration.",
+            "It is a minor event with little impact on the overall story."
+        ]
+    },
+    {
+        "query": "How was the final season received?",
+        "positive_passage": "The final season received mixed reactions from fans, with debates over character arcs and plot resolutions.",
+        "negative_passages": [
+            "The final season was unanimously praised.",
+            "It was ignored entirely by viewers and critics."
+        ]
+    },
+    {
+        "query": "What does Daenerys Targaryen seek throughout the series?",
+        "positive_passage": "Daenerys seeks to reclaim the Iron Throne that was taken from her family.",
+        "negative_passages": [
+            "She aims to become a local baker.",
+            "Daenerys wants to retire from public life."
+        ]
+    },
+    {
+        "query": "What role does Jon Snow play in *Game of Thrones*?",
+        "positive_passage": "Jon Snow, the illegitimate son of Eddard Stark, rises to prominence in the Night's Watch and becomes a key figure in the struggle against the White Walkers.",
+        "negative_passages": [
+            "Jon Snow is a minor character with no significant role.",
+            "He primarily serves as a comic relief throughout the series."
+        ]
+    },{
+        "query": "What is *Game of Thrones*?",
+        "positive_passage": "*Game of Thrones* is a television series based on the epic fantasy novels *A Song of Ice and Fire* by George R.R. Martin.",
+        "negative_passages": [
+            "It is a romantic comedy set in modern-day America.",
+            "The series is a documentary about medieval history."
+        ]
+    },
+    {
+        "query": "What are the themes of *Game of Thrones*?",
+        "positive_passage": "Key themes include the nature of power, loyalty, betrayal, and the impact of war on society.",
+        "negative_passages": [
+            "The show focuses solely on comedic elements.",
+            "It emphasizes a utopian view of society."
+        ]
+    },
+    {
+        "query": "Give a summary of Season 1 of *Game of Thrones*.",
+        "positive_passage": "Season 1 introduces viewers to the Stark family and the political intrigue surrounding the Iron Throne.",
+        "negative_passages": [
+            "Season 1 is a lighthearted tale about summer festivals.",
+            "It features one character throughout the entire season."
+        ]
+    },
+    {
+        "query": "What happens in Season 3?",
+        "positive_passage": "Season 3 features the shocking Red Wedding, a pivotal moment that decimates the Stark family.",
+        "negative_passages": [
+            "The season revolves around a peaceful resolution between families.",
+            "It features a cooking competition among characters."
+        ]
+    },
+    {
+        "query": "Who are some main characters in *Game of Thrones*?",
+        "positive_passage": "Main characters include Eddard Stark, Cersei Lannister, Daenerys Targaryen, Jon Snow, and Tyrion Lannister.",
+        "negative_passages": [
+            "The main characters are all animals living in a forest.",
+            "Only a single character exists in the series."
+        ]
+    }, {
+        "query": "What is the significance of the Iron Throne?",
+        "positive_passage": "The Iron Throne symbolizes ultimate power in Westeros, representing the struggle for dominance among noble families.",
+        "negative_passages": [
+            "The Iron Throne is just a decorative piece in a castle.",
+            "It serves as a throne for entertaining guests only."
+        ]
+    },
+    {
+        "query": "Who are the Targaryens?",
+        "positive_passage": "House Targaryen, once rulers of the Seven Kingdoms, are known for their dragons and their distinctive silver hair.",
+        "negative_passages": [
+            "The Targaryens are a family of merchants.",
+            "They are known for their role as farmers in Westeros."
+        ]
+    },
+    {
+        "query": "What is the Dance of the Dragons?",
+        "positive_passage": "The Dance of the Dragons is a Targaryen civil war characterized by brutal battles and dragon-on-dragon warfare.",
+        "negative_passages": [
+            "It is a peaceful gathering of the Targaryen family.",
+            "The Dance of the Dragons is a dance competition."
+        ]
+    },
+    {
+        "query": "Who are the main characters in *House of the Dragon*?",
+        "positive_passage": "Key characters include Rhaenyra Targaryen, Daemon Targaryen, Alicent Hightower, and Otto Hightower.",
+        "negative_passages": [
+            "The main characters are all animals in a forest.",
+            "There are no significant characters in the series."
+        ]
+    },
+    {
+        "query": "How does *House of the Dragon* connect to *Game of Thrones*?",
+        "positive_passage": "*House of the Dragon* serves as a prequel, providing context about the Targaryens referenced throughout *Game of Thrones*.",
+        "negative_passages": [
+            "The two series are completely unrelated.",
+            "They are set in different universes with no connection."
+        ]
+    }
+]
