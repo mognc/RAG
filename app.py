@@ -7,11 +7,11 @@ import json
 import numpy
 import faiss
 
-passages = load_passages_from_file('data/processed_passages_new.txt')
+passages = load_passages_from_file('data/latest/dpr_direct_experimenet.txt')
 print(f"Total number of loaded passages: {len(passages)}")
 
-embeddings = load_embeddings('data/embeddings.pt')
-index = faiss.read_index('data/faiss_index_HNSWFLAT.index')
+embeddings = load_embeddings('data/latest/embeddings.pt')
+index = faiss.read_index('data/latest/faiss_index_HNSWFLAT.index')
 
 st.title("Game of Thrones Chatbot")
 
